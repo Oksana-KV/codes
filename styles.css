@@ -27,3 +27,8 @@ li {
   line-height: 1;
   list-style: none;
 }
+
+.contact {
+  text-align: center;
+  color: blueviolet;
+}
